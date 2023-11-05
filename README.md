@@ -26,5 +26,4 @@ Before running the Chat Application, make sure you have the following prerequisi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/chat-application.git
-
+   https://github.com/Shreyas521032/OIBSIP_taskno.5.git
